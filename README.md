@@ -1,4 +1,6 @@
 # wordlesolver
+![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/wordlesolver.png?raw=true)
+
 This is just a stupid little couple hour project to solve wordle puzzels
 You'll need a folder called c:\Delphi11 with the english download
 http://www.gwicks.net/textlists/english3.zip
@@ -13,4 +15,18 @@ Technology used:
 6. RTTI Information
 7. IOUtils.pas
 8. Delphi Regular Expressions
-![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/wordlesolver.png?raw=true)
+
+Steps:
+0. if you don't have delphi sign up for the free starter edition.  its a all in one solution
+ https://www.embarcadero.com/products/delphi/starter/free-download
+ 
+1. Play the game with your word guesses.
+2. Uncheck Unkown letters that fail the check.
+3. Block letters that don't belong in certain positions
+4. Enter Correct letters into correct position 
+
+The list will automaticly narrow down your posibilities we each updated peice of information
+
+Have fun!
+
+No warrenties!! 
