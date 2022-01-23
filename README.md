@@ -5,10 +5,11 @@ http://www.gwicks.net/textlists/english3.zip
 unzipped.
 
 Technology used:
-1. VCL
+1. VCL: Memo's ToolBars, ToolButtions
 2. Classes, indexed Properites
-3. Delphi Sets
+3. Delphi Sets ('A'..'Z')
 4. Delphi Enumorated Types
 5. Record Helpers
-6. IOUtils.pas
-7. Delphi Regular Expressions
+6. RTTI Information
+7. IOUtils.pas
+8. Delphi Regular Expressions
