@@ -30,3 +30,8 @@ The list will automaticly narrow down your posibilities we each updated peice of
 Have fun!
 
 No warrenties!! 
+![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/wordlesolver1.png?raw=true)
+![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/wordlesolver2.png?raw=true)
+![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/wordlesolver3.png?raw=true)
+![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/wordlesolver4.png?raw=true)
+![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/wordlesolver5.png?raw=true)
