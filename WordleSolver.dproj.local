@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/21 14:09:03.000.604,=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/01/21 14:12:35.000.275,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\Unit6.pas=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolver1.pas</Transaction>
+    <Transaction>2022/01/21 14:12:35.000.275,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\Unit6.dfm=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolver1.dfm</Transaction>
+    <Transaction>2022/01/21 14:12:42.000.981,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\Project7.dproj=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolver.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
