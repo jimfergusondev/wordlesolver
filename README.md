@@ -13,3 +13,4 @@ Technology used:
 6. RTTI Information
 7. IOUtils.pas
 8. Delphi Regular Expressions
+![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/wordlesolver.png?raw=true)
