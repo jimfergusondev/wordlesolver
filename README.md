@@ -25,9 +25,18 @@ Steps:
 3. Block letters that don't belong in certain positions
 4. Enter Correct letters into correct position 
 
-The list will automaticly narrow down your posibilities we each updated peice of information
+The list will automaticly narrow down your posibilities we each updated peice of information.  
 
-Have fun!
+See play through in images below.
+
+Notes:
+To keep things simple I keep the settings the UI gets entered as the "Down" value of each TToolButton and the known letters in TEdit.text
+
+When the .Change() function is called it will automaticly use a heircy of settings to clear out duplicate settings then generate a RegEx to search the dictionary for words.  
+
+The dictionary is one huge string for optmized search loaded from the c:\Delphi11\English3.txt file with #$A line delimiters not #$0D#$0A like notepad generates.  Don't mess with the file unless you can get that format.
+
+I used Delphi Sets of letters to bit map letter choices and to do bit math and use only uppercase letters.
 
 No warrenties!! 
 ![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/wordlesolver1.png?raw=true)
