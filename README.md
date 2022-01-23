@@ -21,7 +21,7 @@ Steps:
  https://www.embarcadero.com/products/delphi/starter/free-download
  
 1. Play the game with your word guesses.
-2. Uncheck Unkown letters that fail the check.
+2. Uncheck Unknown letters that fail the check.
 3. Block letters that don't belong in certain positions
 4. Enter Correct letters into correct position 
 
