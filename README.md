@@ -1,5 +1,5 @@
 # wordlesolver
-![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/wordlesolver.png?raw=true)
+![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/ScreenShot6.jpg?raw=true)
 
 This is just a stupid little couple hour project to solve wordle puzzels
 You'll need a folder called c:\Delphi11 with the english download
@@ -39,8 +39,9 @@ The dictionary is one huge string for optmized search loaded from the c:\Delphi1
 I used Delphi Sets of letters to bit map letter choices and to do bit math and use only uppercase letters.
 
 No warrenties!! 
-![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/wordlesolver1.png?raw=true)
-![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/wordlesolver2.png?raw=true)
-![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/wordlesolver3.png?raw=true)
-![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/wordlesolver4.png?raw=true)
-![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/wordlesolver5.png?raw=true)
+![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/ScreenShot1.jpg?raw=true)
+![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/ScreenShot2.jpg?raw=true)
+![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/ScreenShot3.jpg?raw=true)
+![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/ScreenShot4.jpg?raw=true)
+![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/ScreenShot5.jpg?raw=true)
+![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/ScreenShot6.jpg?raw=true)
