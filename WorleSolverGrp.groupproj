@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{B74707F1-AFCA-4584-BCA1-B3DD77FAEC92}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="WordleSolverVCL.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="WordleSoverFMX.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="WordleSolverVCL">
+        <MSBuild Projects="WordleSolverVCL.dproj"/>
+    </Target>
+    <Target Name="WordleSolverVCL:Clean">
+        <MSBuild Projects="WordleSolverVCL.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="WordleSolverVCL:Make">
+        <MSBuild Projects="WordleSolverVCL.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="WordleSoverFMX">
+        <MSBuild Projects="WordleSoverFMX.dproj"/>
+    </Target>
+    <Target Name="WordleSoverFMX:Clean">
+        <MSBuild Projects="WordleSoverFMX.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="WordleSoverFMX:Make">
+        <MSBuild Projects="WordleSoverFMX.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="WordleSolverVCL;WordleSoverFMX"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="WordleSolverVCL:Clean;WordleSoverFMX:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="WordleSolverVCL:Make;WordleSoverFMX:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/21 14:09:03.000.604,=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/01/21 14:12:35.000.275,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolver1.dfm=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2022/01/21 14:12:35.000.275,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolver1.pas=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/01/21 14:12:42.000.981,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolver.dproj=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\Project7.dproj</Transaction>
+    <Transaction>2022/01/23 15:24:51.447,=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/01/23 15:25:13.182,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolverTls.pas=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/01/23 16:57:25.768,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolverVCL.pas=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolver1.pas</Transaction>
+    <Transaction>2022/01/23 16:57:25.768,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolverVCL.dfm=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolver1.dfm</Transaction>
+    <Transaction>2022/01/23 17:19:26.067,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolverTls.dpr=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolverTls.dpr</Transaction>
+    <Transaction>2022/01/24 04:29:05.025,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolverVCL1.dfm=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolverVCL.dfm</Transaction>
+    <Transaction>2022/01/24 04:29:05.025,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolverVCL1.pas=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolverVCL.pas</Transaction>
+    <Transaction>2022/01/24 04:30:23.353,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolverVCL.dproj=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolver.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

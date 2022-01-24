@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/01/23 16:58:47.086,=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/01/23 16:59:12.089,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSoverFireMonkey.pas=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/01/23 16:59:12.089,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSoverFireMonkey.fmx=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\Unit6.fmx</Transaction>
+    <Transaction>2022/01/23 16:59:23.233,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSoverFMX.fmx=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSoverFireMonkey.fmx</Transaction>
+    <Transaction>2022/01/23 16:59:23.233,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSoverFMX.pas=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSoverFireMonkey.pas</Transaction>
+    <Transaction>2022/01/23 16:59:34.698,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSoverFireMonkey.dproj=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\Project7.dproj</Transaction>
+    <Transaction>2022/01/23 17:02:44.398,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSoverFireMonkey.dproj=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSoverFireMonkey.dproj</Transaction>
+    <Transaction>2022/01/24 04:29:10.513,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSoverFMX1.fmx=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSoverFMX.fmx</Transaction>
+    <Transaction>2022/01/24 04:29:10.513,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSoverFMX1.pas=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSoverFMX.pas</Transaction>
+    <Transaction>2022/01/24 04:30:16.236,C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSoverFMX.dproj=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSoverFireMonkey.dproj</Transaction>
+    <Transaction>2022/01/24 05:11:11.599,=C:\Users\Alien1\Documents\Embarcadero\Studio\Projects\WordleSolverTls.pas</Transaction>
+  </Transactions>
+</BorlandProject>
