@@ -7,14 +7,16 @@ http://www.gwicks.net/textlists/english3.zip
 unzipped.
 
 Technology used:
-1. VCL: Memo's ToolBars, ToolButtions
-2. Classes, indexed Properites
-3. Delphi Sets ('A'..'Z')
-4. Delphi Enumorated Types
-5. Record Helpers
-6. RTTI Information
-7. IOUtils.pas
-8. Delphi Regular Expressions
+1. FMX,VCL: Memo's ToolBars, Buttons
+3. Classes, indexed Properites
+4. Delphi Sets ('A'..'Z')
+5. Delphi Enumorated Types
+6. Record Helpers
+7. RTTI Information
+8. IOUtils.pas
+9. Delphi Regular Expressions
+10. Dynamic arrays with record helpers to add methods
+11. Common Tool Library for both FMX and VCL versions
 
 Steps:
 0. if you don't have delphi sign up for the free starter edition.  its a all in one solution
