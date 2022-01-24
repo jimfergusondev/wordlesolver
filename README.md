@@ -1,5 +1,5 @@
 # wordlesolver
-![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/ScreenShot6.jpg?raw=true)
+![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/Screenshot6.jpg?raw=true)
 
 This is just a stupid little couple hour project to solve wordle puzzels
 You'll need a folder called c:\Delphi11 with the english download
@@ -42,6 +42,6 @@ No warrenties!!
 ![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/ScreenShot1.jpg?raw=true)
 ![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/ScreenShot2.jpg?raw=true)
 ![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/ScreenShot3.jpg?raw=true)
-![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/ScreenShot4.jpg?raw=true)
-![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/ScreenShot5.jpg?raw=true)
-![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/ScreenShot6.jpg?raw=true)
+![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/Screenshot4.jpg?raw=true)
+![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/Screenshot5.jpg?raw=true)
+![This is an image](https://github.com/jimfergusondev/wordlesolver/blob/main/Screenshot6.jpg?raw=true)
