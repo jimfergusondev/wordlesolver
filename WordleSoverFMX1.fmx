@@ -1,0 +1,154 @@
+object WordleSolver: TWordleSolver
+  Left = 0
+  Top = 0
+  Caption = 'Wordle Solver'
+  ClientHeight = 579
+  ClientWidth = 733
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop, iPhone, iPad]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 0
+  object StatusBar1: TStatusBar
+    Position.Y = 560.000000000000000000
+    ShowSizeGrip = True
+    Size.Width = 733.000000000000000000
+    Size.Height = 19.000000000000000000
+    Size.PlatformDefault = False
+    Top = 560
+  end
+  object gbSearch: TGroupBox
+    Align = MostTop
+    Position.Y = 49.000000000000000000
+    Size.Width = 733.000000000000000000
+    Size.Height = 127.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Search'
+    TabOrder = 1
+    Left = 3
+    Top = 74
+    object mRegEx: TMemo
+      Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+      DataDetectorTypes = []
+      Align = Client
+      Margins.Left = 3.000000000000000000
+      Margins.Top = 18.000000000000000000
+      Margins.Right = 3.000000000000000000
+      Margins.Bottom = 3.000000000000000000
+      Size.Width = 633.000000000000000000
+      Size.Height = 106.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Left = 5
+      Top = 20
+      Viewport.Width = 629.000000000000000000
+      Viewport.Height = 102.000000000000000000
+    end
+    object fpSearch: TFlowLayout
+      Align = MostRight
+      Padding.Left = 3.000000000000000000
+      Padding.Top = 3.000000000000000000
+      Padding.Right = 3.000000000000000000
+      Padding.Bottom = 3.000000000000000000
+      Position.X = 639.000000000000000000
+      Size.Width = 94.000000000000000000
+      Size.Height = 127.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 38
+      Justify = Left
+      JustifyLastLine = Left
+      FlowDirection = LeftToRight
+      object btnRefresh: TButton
+        Position.X = 3.000000000000000000
+        Position.Y = 3.000000000000000000
+        TabOrder = 2
+        Text = 'Refresh'
+        OnClick = Changed
+      end
+      object btnCopy: TButton
+        Position.X = 3.000000000000000000
+        Position.Y = 25.000000000000000000
+        TabOrder = 0
+        Text = 'Copy'
+        OnClick = btnCopyClick
+      end
+      object gbLimit: TGroupBox
+        Padding.Left = 3.000000000000000000
+        Padding.Top = 15.000000000000000000
+        Padding.Right = 3.000000000000000000
+        Padding.Bottom = 3.000000000000000000
+        Position.X = 3.000000000000000000
+        Position.Y = 47.000000000000000000
+        Size.Width = 89.000000000000000000
+        Size.Height = 37.000000000000000000
+        Size.PlatformDefault = False
+        Text = 'Limit'
+        TabOrder = 1
+        Left = 168
+        Top = 120
+        object sbLimit: TSpinBox
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Client
+          TabOrder = 38
+          Cursor = crIBeam
+          Max = 100000.000000000000000000
+          Value = 10000.000000000000000000
+          Size.Width = 83.000000000000000000
+          Size.Height = 19.000000000000000000
+          Size.PlatformDefault = False
+        end
+      end
+    end
+  end
+  object gbResults: TGroupBox
+    Align = Client
+    Padding.Left = 3.000000000000000000
+    Padding.Top = 15.000000000000000000
+    Padding.Right = 3.000000000000000000
+    Padding.Bottom = 3.000000000000000000
+    Size.Width = 733.000000000000000000
+    Size.Height = 384.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Results'
+    TabOrder = 2
+    Left = 3
+    Top = 207
+    object mWords: TMemo
+      Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+      DataDetectorTypes = []
+      Align = Client
+      Size.Width = 727.000000000000000000
+      Size.Height = 366.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Left = 5
+      Top = 20
+      Viewport.Width = 723.000000000000000000
+      Viewport.Height = 362.000000000000000000
+    end
+  end
+  object gbFound: TGroupBox
+    Align = MostTop
+    Padding.Left = 3.000000000000000000
+    Padding.Top = 15.000000000000000000
+    Padding.Right = 3.000000000000000000
+    Padding.Bottom = 3.000000000000000000
+    Size.Width = 733.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Found'
+    TabOrder = 3
+    Left = 3
+    Top = 3
+    object flFound: TFlowLayout
+      Align = Client
+      Size.Width = 727.000000000000000000
+      Size.Height = 31.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 38
+      Justify = Left
+      JustifyLastLine = Left
+      FlowDirection = LeftToRight
+    end
+  end
+end
