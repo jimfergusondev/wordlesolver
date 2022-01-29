@@ -1,5 +1,6 @@
 # wordlesolver
 ![Watch the video](https://youtu.be/mSLD2zSeTE8)
+https://youtu.be/mSLD2zSeTE8
 
 This is just a stupid little couple hour project to solve wordle puzzels
 You'll need a folder called c:\Delphi11 with the english download
