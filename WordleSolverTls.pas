@@ -266,7 +266,7 @@ begin
 
       else
         // Create a set of letters that represents the search term
-        ( ( ( Unknown + Known ) - Found ) - Blocked[ lIndex ] ).Build( lBuilder );
+        ( ( ( Unknown + Known ) {- Found } ) - Blocked[ lIndex ] ).Build( lBuilder );
       lBuilder.Append( ']' );
     end;
 
