@@ -218,7 +218,7 @@ end;
 
 procedure TSolution.AddBlocked(const aLetters: TLetterButtons);
 begin
-  _SetLetters( aLetters, _GetLetters( aLetters ) - Found ); // Once a letter is found remove the block
+  _SetLetters( aLetters, _GetLetters( aLetters ) {- Found // Double Letters} ); // Once a letter is found remove the block
   SetLength( Blocked, Length( Blocked ) + 1 );
   Blocked[ High( Blocked ) ] := _GetLetters( aLetters );
   FKnown := FKnown + Blocked[ High( Blocked ) ];
